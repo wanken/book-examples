@@ -12,8 +12,8 @@ import io.netty.util.CharsetUtil;
  *
  * @author <a href="mailto:norman.maurer@gmail.com">Norman Maurer</a>
  */
-@Sharable
 //标记该类的实例可以被多个 Channel 共享
+@Sharable
 public class EchoClientHandler
     extends SimpleChannelInboundHandler<ByteBuf> {
     @Override
