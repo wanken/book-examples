@@ -41,9 +41,9 @@
                 <version>${netty.version}</version>
             </dependency>
             <dependency>
-                <groupId>nia</groupId>
+                <groupId>me.waver</groupId>
                 <artifactId>utils</artifactId>
-                <version>2.0-SNAPSHOT</version>
+                <version>1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>junit</groupId>
@@ -58,10 +58,6 @@
             <artifactId>netty-all</artifactId>
         </dependency>
         <dependency>
-            <groupId>nia</groupId>
-            <artifactId>utils</artifactId>
-        </dependency>
-        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
         </dependency>
@@ -74,8 +70,8 @@
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.8.0</version>
                     <configuration>
-                        <source>1.7</source>
-                        <target>1.7</target>
+                        <source>1.8</source>
+                        <target>1.8</target>
                     </configuration>
                 </plugin>
                 <plugin>

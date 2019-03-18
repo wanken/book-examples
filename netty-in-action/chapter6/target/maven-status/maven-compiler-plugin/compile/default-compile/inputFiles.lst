@@ -1,0 +1,15 @@
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\WriteHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\io\netty\channel\DummyChannelPipeline.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\UnsharableHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\DiscardOutboundHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\io\netty\channel\DummyChannelHandlerContext.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\OutboundExceptionHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\DiscardInboundHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\DiscardHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\package-info.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\WriteHandlers.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\SharableHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\InboundExceptionHandler.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\ChannelFutures.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\ModifyChannelPipeline.java
+C:\Users\arkwa\Work\Github\book-examples\netty-in-action\chapter6\src\main\java\nia\chapter6\SimpleDiscardHandler.java

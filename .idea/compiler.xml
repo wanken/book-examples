@@ -19,13 +19,16 @@
         <module name="chapter9" />
         <module name="echo-client" />
         <module name="echo-server" />
-        <module name="environment" />
-        <module name="examples" />
         <module name="hibernateinaction" />
-        <module name="model" />
-        <module name="shared" />
         <module name="utils" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="environment" target="1.5" />
+      <module name="examples" target="1.5" />
+      <module name="hibernate-in-action" target="1.7" />
+      <module name="model" target="1.5" />
+      <module name="shared" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
